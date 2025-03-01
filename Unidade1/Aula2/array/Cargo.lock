@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "aula1"
+name = "array"
 version = "0.1.0"
