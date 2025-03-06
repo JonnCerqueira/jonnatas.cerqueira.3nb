@@ -86,7 +86,7 @@ impl<T> Drop for Queue<T> {
     }
 }
 
-// src/lib.rs
+// src/main.rs
 
 // Módulo de testes: esse código será compilado e executado apenas quando rodarmos os testes.
 #[cfg(test)]
