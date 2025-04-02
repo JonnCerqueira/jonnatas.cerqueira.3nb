@@ -67,7 +67,7 @@ impl BST {
     #[allow(dead_code)]
     fn is_empty(&self) -> bool {
         self.root.is_none()
-    }git 
+    } 
 
     // Buscar valor
     #[allow(dead_code)]
